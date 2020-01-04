@@ -8,7 +8,7 @@ Repositório da disciplina Programação 3, Curso de Bacharelado em Engenharia d
 
 **E-mail:** me@revoredo.dev
 
-**Turma:** 3 período do curso de Bacharelado em Engenharia de Software 2019.2
+**Turma:** 3 período do curso de Bacharelado em Engenharia de Software 2020.1
 
 ## Conteúdo programático
 
