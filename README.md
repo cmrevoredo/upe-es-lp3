@@ -13,6 +13,7 @@ Repositório da disciplina Programação 3, Curso de Bacharelado em Engenharia d
 ## Conteúdo programático
 
 **Um vídeo interessante sobre o conteúdo programado para a disciplina**
+
 Em breve
 
 ## Cronograma da Disciplina
