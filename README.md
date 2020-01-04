@@ -1,4 +1,4 @@
-![Programação 3](https://github.com/cmrevoredo/upe-es-lp3/blob/master/titulo.png?raw=true)
+![Programação 3](https://github.com/cmrevoredo/upe-es-lp3/blob/master/titulo2.png?raw=true)
 # Programação 3
 Repositório da disciplina Programação 3, Curso de Bacharelado em Engenharia de Software, UPE Campus Garanhuns
 
